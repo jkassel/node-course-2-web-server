@@ -6,7 +6,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "hbs": "^4.0.14"
   },
   "main": "index.js",
